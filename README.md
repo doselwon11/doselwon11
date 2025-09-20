@@ -31,3 +31,6 @@
 * (2025/05) The Axxess Scholarship for the Jonsson School, UTD
 * (2024/09) Selden Leavell Endowed Scholarship Award, UTD
 * (2024/04, 2025/04) **BAFTX Undergraduate Scholarship Award**, [British American Foundation of Texas](https://baftx.org/)
+## ⚡ Projects
+* (2025/02-2025/03) [CommTrack — Incident Report Tracker Website](https://github.com/doselwon11/CommTrack), MEGA Hackathon 2025
+* (2024/12-2025/01) [Disaster Bomb Game](https://github.com/doselwon11/AWS-Disaster-Bomb-Game), 2024 [AWS](https://aws.amazon.com/deepracer/) Game Builder Challenge
