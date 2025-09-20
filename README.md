@@ -22,7 +22,7 @@
 * Web development
 ## 🚀 Experiences
 * (2025/06 - 2025/08) IT Infrastructure Analyst Intern @ [Textron](https://www.textron.com/), Hurst, Texas, U.S.
-* (2025/01 - 2025/05) Computing Lab Associate / Web Developer @ UTD ECS Department, Richardson, Texas, U.S.
+* (2025/01 - 2025/05) Computing Lab Associate / Web Developer @ [UTD ECS Department](https://engineering.utdallas.edu/), Richardson, Texas, U.S.
 ## 🏆 Awards
 * (2025/07) **1st Place Team Award - Textron Intern Conference: Game of Tech Competition**, [Textron](https://www.textron.com/)
 * (2025/06) **Microsoft 365 Copilot Prompt-a-thon 1st Place Team Award**, [Microsoft](https://www.microsoft.com/en-us)
