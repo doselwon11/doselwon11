@@ -1,5 +1,5 @@
 # Hi there 👋
-* **Name**: Andy Nguyen (English), Nguyễn Đức Thái Duy (Vietnamese)
+* **Name(s)**: Andy Nguyen (English), Nguyễn Đức Thái Duy (Vietnamese)
 * **Birth date**: 30 December 2003
 * **Birth place**: Hanoi, Vietnam
 * **Nationality**: Vietnam, United States
