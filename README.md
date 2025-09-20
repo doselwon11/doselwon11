@@ -1,5 +1,5 @@
 # Hi there 👋
-
+I was born on December 30, 2003 in Hanoi, Vietnam, and currently lives in Dallas-Fort Worth, Texas, U.S.
 <!--
 **doselwon11/doselwon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
