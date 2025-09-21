@@ -11,16 +11,16 @@
 ## 👨🏻‍🎓 Education
 * [The University of Texas at Dallas](https://www.utdallas.edu/) | Bachelor of Science in Computer Science (2022-2026)
 * [Sungkyunkwan University](https://www.skku.edu/eng/index.do) | Student Exchange Program - Computer Science & Engineering (Fall 2025)
-## 🛠️ Technical Skills
+## 💻🛠️ Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,azure,c,cpp,css,discord,eclipse,figma,flask,gcp,git,github,gmail,haskell,html,instagram,java,js,linkedin,mysql,nodejs,powershell,py,redhat,replit,sklearn,tensorflow,twitter,visualstudio,vscode,windows)](https://skillicons.dev)
-## ❤️ Technical Interests
+## 🧑‍💻❤️ Technical Interests
 * Artificial intelligence
 * Cloud computing
 * Data science
 * Information technology
 * Software development (full-stack development)
 * Web development
-## 🚀 Experiences
+## 🖥️🚀 Experiences
 * (2025/06 - 2025/08) IT Infrastructure Analyst Intern @ [Textron](https://www.textron.com/), Hurst, Texas, U.S.
 * (2025/01 - 2025/05) Computing Lab Associate / Web Developer @ [UTD ECS Department](https://engineering.utdallas.edu/), Richardson, Texas, U.S.
 ## 🏆 Awards
@@ -35,7 +35,7 @@
 * (2025/05) **The Axxess Scholarship for the Jonsson School**, UTD
 * (2024/09) **Selden Leavell Endowed Scholarship Award**, UTD
 * (2024/04, 2025/04) **BAFTX Undergraduate Scholarship Award**, [British American Foundation of Texas](https://baftx.org/)
-## ⚡ Projects
+## 🖥️⚡ Technical Projects
 * (2025/02-2025/03) [CommTrack — Incident Report Tracker Website](https://github.com/doselwon11/CommTrack), MEGA Hackathon 2025
 * (2024/12-2025/01) [Disaster Bomb Game](https://github.com/doselwon11/AWS-Disaster-Bomb-Game), 2024 [AWS](https://aws.amazon.com/deepracer/) Game Builder Challenge
 ## ✨ Other Random Things About Me
