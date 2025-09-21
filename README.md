@@ -40,6 +40,7 @@
 ## ✨ Other Random Things About Me
 * **Favourite foods**: Phở bò, Bánh mì, Bánh xèo, Bún chả Hà Nội, Nem rán (fried spring rolls), Bún riêu cua, Bún hải sản, Bánh cuốn, Pasta, Kimbap, Ramen, Tonkatsu, Tempura,...
 * **Favourite drinks**: Vietnamese coffee, matcha, milk tea
+* **Non-tech interests**: Blogging, writing, popular culture, media, music, travel, journalism, photography, videography, graphic design
 * **Countries I lived (or currently living)**: South Korea, United States, Vietnam
 * **Countries visited**: Canada, Japan
 
