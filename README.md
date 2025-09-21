@@ -37,3 +37,9 @@
 ## ⚡ Projects
 * (2025/02-2025/03) [CommTrack — Incident Report Tracker Website](https://github.com/doselwon11/CommTrack), MEGA Hackathon 2025
 * (2024/12-2025/01) [Disaster Bomb Game](https://github.com/doselwon11/AWS-Disaster-Bomb-Game), 2024 [AWS](https://aws.amazon.com/deepracer/) Game Builder Challenge
+## ✨ Other Random Things About Me
+* **Favourite foods**: Phở bò, Bánh mì, Bánh xèo, Bún chả Hà Nội, Nem rán (fried spring rolls), Bún riêu cua, Bún hải sản, Bánh cuốn, Pasta, Kimbap, Ramen, Tonkatsu, Tempura,...
+* **Favourite drinks**: Vietnamese coffee, matcha, milk tea
+* **Countries I lived (or currently living)**: South Korea, United States, Vietnam
+* **Countries visited**: Canada, Japan
+
