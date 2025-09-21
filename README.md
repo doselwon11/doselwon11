@@ -13,7 +13,7 @@
 * [Sungkyunkwan University](https://www.skku.edu/eng/index.do) | Student Exchange Program - Computer Science & Engineering (Fall 2025)
 ## 🛠️ Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,azure,c,cpp,css,discord,eclipse,figma,flask,gcp,git,github,gmail,haskell,html,instagram,java,js,linkedin,mysql,nodejs,powershell,py,redhat,replit,sklearn,tensorflow,twitter,visualstudio,vscode,windows)](https://skillicons.dev)
-## ❤️ Interests
+## ❤️ Technical Interests
 * Artificial intelligence
 * Cloud computing
 * Data science
