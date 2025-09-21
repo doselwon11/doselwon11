@@ -31,8 +31,8 @@
 * (2022/12, 2023/08) **Naval Horizons STEM Essay Contest Winner Award**, [Office of Naval Research](https://www.onr.navy.mil/)
 * (2022/05) **2022 Spring IEEE International Software Testing Contest Award, 3rd Place, High School Students Category**, [IEEE UTD](https://www.ieeeutd.org/)
 ## 🎓💰 Scholarships
-* (2025/05) The Axxess Scholarship for the Jonsson School, UTD
-* (2024/09) Selden Leavell Endowed Scholarship Award, UTD
+* (2025/05) **The Axxess Scholarship for the Jonsson School**, UTD
+* (2024/09) **Selden Leavell Endowed Scholarship Award**, UTD
 * (2024/04, 2025/04) **BAFTX Undergraduate Scholarship Award**, [British American Foundation of Texas](https://baftx.org/)
 ## ⚡ Projects
 * (2025/02-2025/03) [CommTrack — Incident Report Tracker Website](https://github.com/doselwon11/CommTrack), MEGA Hackathon 2025
