@@ -12,7 +12,7 @@
 * [The University of Texas at Dallas](https://www.utdallas.edu/) | Bachelor of Science in Computer Science (2022-2026)
 * [Sungkyunkwan University](https://www.skku.edu/eng/index.do) | Student Exchange Program - Computer Science & Engineering (Fall 2025)
 ## 💻🛠️ Technical Skills <sub><sup>Kỹ năng công nghệ</sup></sub> <sub><sup>技术技能</sup></sub> <sub><sup>技術的スキル</sup></sub> <sub><sup>기술력</sup></sub>
-[![My Skills](https://skillicons.dev/icons?i=apple,aws,azure,c,cpp,css,discord,eclipse,figma,flask,gcp,git,github,gmail,haskell,html,instagram,java,js,linkedin,mysql,nodejs,powershell,py,redhat,replit,sklearn,tensorflow,twitter,visualstudio,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,apple,aws,azure,c,cpp,css,discord,dynamodb,eclipse,figma,flask,gcp,git,github,gmail,haskell,html,instagram,java,js,jest,linkedin,mysql,nodejs,ps,powershell,py,redhat,replit,sklearn,tensorflow,twitter,vim,visualstudio,vscode,windows)](https://skillicons.dev)
 ## 🧑‍💻❤️ Technical Interests <sub><sup>Sở trường công nghệ</sup></sub> <sub><sup>技术兴趣</sup></sub> <sub><sup>技術的関心</sup></sub> <sub><sup>기술적 관심</sup></sub>
 * Artificial intelligence
 * Cloud computing
