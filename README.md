@@ -1,5 +1,6 @@
 # Hi there 👋<br><sub><sup>Xin chào! </sup></sub> <sub><sup>你好！</sup></sub> <sub><sup>こんにちは！</sup></sub> <sub><sup>안녕하세요!</sup></sub>
-* **Name(s)**: Andy Nguyen (English), Nguyễn Đức Thái Duy (Vietnamese)
+* **Birth name**: Nguyễn Đức Thái Duy
+* **Other name(s)**: Andy Nguyen
 * **Birth date**: 30 December 2003
 * **Birth place**: Hanoi, Vietnam
 * **Nationality**: Vietnam, United States
