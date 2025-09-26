@@ -41,7 +41,7 @@
 * (2024/12-2025/01) [Disaster Bomb Game](https://github.com/doselwon11/AWS-Disaster-Bomb-Game), 2024 [AWS](https://aws.amazon.com/deepracer/) Game Builder Challenge
 ## ✨ Other Things About Me <sub><sup>Những điều khác về mình</sup></sub> <sub><sup>关于我的其他事情</sup></sub> <sub><sup>私についてのその他のこと</sup></sub> <sub><sup>나에 관한 다른 것들</sup></sub>
 * **Favourite foods**: Phở bò, Bánh mì, Bánh xèo, Bún chả Hà Nội, Nem rán/Chả giò (fried spring rolls), Bún riêu cua, Bún hải sản, Xôi xéo, Bánh cuốn, Pasta, Kimbap, Ramen, Tonkatsu, Tempura,...
-* **Favourite drinks**: Vietnamese coffee, matcha, milk tea
+* **Favourite drinks**: Vietnamese coffee (Cà phê sữa đá, bạc xỉu, kem cốt dừa,...), matcha, milk tea
 * **Non-tech interests**: Blogging, writing, popular culture, media, music, travel, journalism, photography, videography, graphic design
 * **Countries I lived (or currently living)**: South Korea, United States, Vietnam
 * **Countries visited**: Canada, Japan
