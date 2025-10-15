@@ -13,7 +13,7 @@
 * [The University of Texas at Dallas](https://www.utdallas.edu/) | Bachelor of Science in Computer Science (2022-2026)
 * [Sungkyunkwan University](https://www.skku.edu/eng/index.do) | Student Exchange Program - Computer Science & Engineering (Fall 2025)
 ## 💻🛠️ Technical Skills <sub><sup>Kỹ năng công nghệ</sup></sub> <sub><sup>技术技能</sup></sub> <sub><sup>技術的スキル</sup></sub> <sub><sup>기술력</sup></sub>
-[![My Skills](https://skillicons.dev/icons?i=ansible,apple,aws,azure,c,cpp,css,discord,dynamodb,eclipse,figma,flask,gcp,git,github,gmail,haskell,html,instagram,java,js,jest,linkedin,mysql,nodejs,ps,powershell,py,redhat,replit,sklearn,tensorflow,twitter,vim,visualstudio,vscode,windows)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=acrobat,android,ansible,api,apple,authenticator,aws,azure,azuredevops,bash,c,cpp,canva,chartjs,chatgpt,chrome,css,discord,dynamodb,ec2,eclipse,edge,elasticbeanstalk,excel,expo,facebook,figma,firefox,flask,gcp,gemini,git,github,githubcopilot,gmail,googlecolab,hackerrank,haskell,html,huggingface,instagram,java,javascript,jest,json,jupyter,leetcode,linkedin,linux,lucidchart,matplotlib,microsoftcopilot,mysql,nodejs,npm,numpy,onedrive,onenote,pandas,photoshop,powerpoint,powershell,pygame,python,reactnative,reddit,redhat,replit,s3,safari,scikitlearn,scratch,sharepoint,slack,tensorflow,typescript,visualstudio,vscode,windows,word,x,yaml,youtube&perline=10)
 ## 🧑‍💻❤️ Technical Interests <sub><sup>Sở trường công nghệ</sup></sub> <sub><sup>技术兴趣</sup></sub> <sub><sup>技術的関心</sup></sub> <sub><sup>기술적 관심</sup></sub>
 * Artificial intelligence
 * Cloud computing
