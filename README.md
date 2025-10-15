@@ -3,7 +3,7 @@
 * **Other name(s)**: Andy Nguyen
 * **Birth date**: 30 December 2003
 * **Birth place**: Hanoi, Vietnam
-* **Nationality**: Vietnam, United States
+* **Citizenship(s)**: Vietnam, United States
 
 <!--
 **doselwon11/doselwon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
