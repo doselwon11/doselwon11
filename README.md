@@ -2,7 +2,7 @@
 * **Birth name**: Nguyễn Đức Thái Duy
 * **Other name(s)**: Andy Nguyen
 * **Birth date**: 30 December 2003
-* **Birth place**: Hanoi, Vietnam (Hà Nội, Việt Nam)
+* **Birth place**: Hanoi, Vietnam
 * **Citizenship(s)**: Vietnam, United States
 
 <!--
