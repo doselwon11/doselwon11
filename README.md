@@ -40,7 +40,7 @@
 * (2025/11-2025/12) [Handover Analysis in 5G Networks](https://github.com/doselwon11/5G-Handover-Analysis), SKKU SWE3022-41: Computer Networks Term Project
    * Programming languages, frameworks, APIs, libraries used: **C++, OMNeT++, Python (Pandas, Matplotlib)**
 * (2025/02-2025/03) [CommTrack — Incident Report Tracker Website](https://github.com/doselwon11/CommTrack), MEGA Hackathon 2025
-   * Programming languages, frameworks, APIs, libraries used: **HTML, CSS, JavaScript, Python (Flask), TensorFlow, Hugging Face Transformers, REST API**
+   * Programming languages, frameworks, APIs, libraries used: **HTML, CSS, JavaScript, Python (Flask), TensorFlow, Hugging Face Transformers, REST API (REST Countries, GeoNames, OpenStreetMap, Google Translate, etc.)**
 * (2024/12-2025/01) [Disaster Bomb Game](https://github.com/doselwon11/AWS-Disaster-Bomb-Game), 2024 [AWS](https://aws.amazon.com/deepracer/) Game Builder Challenge
    * Programming languages, frameworks, APIs, libraries used: **Python (Pygame), AWS (S3, DynamoDB), Amazon Q Developer**
 ## ✨ Other Things About Me <sub><sup>Những điều khác về mình</sup></sub> <sub><sup>关于我的其他事情</sup></sub> <sub><sup>私についてのその他のこと</sup></sub> <sub><sup>나에 관한 다른 것들</sup></sub>
