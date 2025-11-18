@@ -39,6 +39,8 @@
 ## 🖥️⚡ Technical Projects <sub><sup>Dự án công nghệ</sup></sub> <sub><sup>科技项目</sup></sub> <sub><sup>技術プロジェクト</sup></sub> <sub><sup>기술 프로젝트</sup></sub>
 * (2025/11-Current) [Handover Analysis in 5G Networks](https://github.com/doselwon11/5G-Handover-Analysis), SKKU SWE3022-41: Computer Networks Term Project
    * Programming languages, frameworks, APIs, libraries used: **C++, OMNeT++, Python (Pandas, Matplotlib)**
+* (2025/09-Current) [KLYNN Laundry](https://github.com/doselwon11/KLYNN-laundry-remake), SKKU SWE3028-41: Capstone Design Project (Team Project)
+   * Programming languages, frameworks, APIs, libraries used: **TypeScript, React Native, Supabase (SQL), REST API (REST Countries, etc.)**
 * (2025/02-2025/03) [CommTrack — Incident Report Tracker Website](https://github.com/doselwon11/CommTrack), MEGA Hackathon 2025
    * Programming languages, frameworks, APIs, libraries used: **HTML, CSS, JavaScript, Python (Flask), TensorFlow, Hugging Face Transformers, REST API (REST Countries, GeoNames, OpenStreetMap, Google Translate, etc.)**
 * (2024/12-2025/01) [Disaster Bomb Game](https://github.com/doselwon11/AWS-Disaster-Bomb-Game), 2024 [AWS](https://aws.amazon.com/deepracer/) Game Builder Challenge
