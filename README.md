@@ -37,6 +37,8 @@
 * (2024/09) **Selden Leavell Endowed Scholarship Award**, UTD
 * (2024/04, 2025/04) **BAFTX Undergraduate Scholarship Award**, [British American Foundation of Texas](https://baftx.org/)
 ## 🖥️⚡ Technical Projects <sub><sup>Dự án công nghệ</sup></sub> <sub><sup>科技项目</sup></sub> <sub><sup>技術プロジェクト</sup></sub> <sub><sup>기술 프로젝트</sup></sub>
+* (2025/11-Current) [F1 Champion Prediction](https://github.com/doselwon11/F1-Champion-Predictions), SKKU SWE3050-41: Machine Learning Term Project
+   * Programming languages, frameworks, APIs, libraries used: **Google Colab, Jupyter Notebooks, Python (FastF1, Pandas, scikit-learn)**
 * (2025/11-Current) [Handover Analysis in 5G Networks](https://github.com/doselwon11/5G-Handover-Analysis), SKKU SWE3022-41: Computer Networks Term Project
    * Programming languages, frameworks, APIs, libraries used: **C++, OMNeT++, Python (Pandas, Matplotlib)**
 * (2025/09-Current) [KLYNN Laundry](https://github.com/doselwon11/KLYNN-laundry-remake), SKKU SWE3028-41: Capstone Design Project (Team Project)
