@@ -41,7 +41,7 @@
    * Programming languages, frameworks, APIs, libraries used: **Google Colab, Jupyter Notebooks, Python (FastF1, Pandas, scikit-learn)**
 * (2025/11-Current) [Handover Analysis in 5G Networks](https://github.com/doselwon11/5G-Handover-Analysis), SKKU SWE3022-41: Computer Networks Term Project
    * Programming languages, frameworks, APIs, libraries used: **C++, OMNeT++, Python (Pandas, Matplotlib)**
-* (2025/09-Current) [KLYNN Laundry](https://github.com/doselwon11/KLYNN-laundry-remake), SKKU SWE3028-41: Capstone Design Project (Team Project)
+* (2025/09-Current) [KLYNN Laundry (Client)](https://github.com/doselwon11/KLYNN-laundry-remake) & [KLYNN Laundry (Admin)](https://github.com/doselwon11/klynn-admin-app), SKKU SWE3028-41: Capstone Design Project (Team Project)
    * Programming languages, frameworks, APIs, libraries used: **TypeScript, React Native, Supabase (SQL), REST API (REST Countries, etc.)**
 * (2025/02-2025/03) [CommTrack — Incident Report Tracker Website](https://github.com/doselwon11/CommTrack), MEGA Hackathon 2025
    * Programming languages, frameworks, APIs, libraries used: **HTML, CSS, JavaScript, Python (Flask), TensorFlow, Hugging Face Transformers, REST API (REST Countries, GeoNames, OpenStreetMap, Google Translate, etc.)**
