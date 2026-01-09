@@ -11,7 +11,7 @@
 -->
 ## 👨🏻‍🎓 Education <sub><sup>Giáo dục</sup></sub> <sub><sup>教育</sup></sub> <sub><sup>교육</sup></sub>
 * [The University of Texas at Dallas (UTD)](https://www.utdallas.edu/) | Bachelor of Science in Computer Science (2022-2026)<br>📍Richardson, Texas, U.S.
-* [Sungkyunkwan University 성균관대학교 (SKKU)](https://www.skku.edu/eng/index.do) | Student Exchange Program - Computer Science & Engineering (Fall 2025)<br>📍Suwon, Gyeonggi-do, South Korea
+* [Sungkyunkwan University 성균관대학교 (SKKU)](https://www.skku.edu/eng/index.do) | Student Exchange Program - Computer Science & Engineering (Fall 2025)<br>📍Suwon-si, Gyeonggi-do, South Korea
 ## 💻🛠️ Technical Skills <sub><sup>Kỹ năng công nghệ</sup></sub> <sub><sup>技术技能</sup></sub> <sub><sup>技術的スキル</sup></sub> <sub><sup>기술력</sup></sub>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=acrobat,android,ansible,api,apple,authenticator,aws,azure,azuredevops,bash,c,cpp,canva,chartjs,chatgpt,chrome,css,discord,dynamodb,ec2,eclipse,edge,elasticbeanstalk,excel,expo,facebook,figma,firefox,flask,gcp,gemini,git,github,githubcopilot,gmail,googlecolab,hackerrank,haskell,html,huggingface,instagram,java,javascript,jest,json,jupyter,leetcode,linkedin,linux,lucidchart,matplotlib,microsoftcopilot,mysql,nextjs,nodejs,npm,numpy,onedrive,onenote,pandas,photoshop,powerpoint,powershell,pygame,python,react,reactnative,reddit,redhat,replit,s3,safari,scikitlearn,scratch,sharepoint,slack,supabase,tensorflow,typescript,visualstudio,vscode,windows,word,x,yaml,youtube&perline=15)
 ## 🧑‍💻❤️ Technical Interests <sub><sup>Sở trường công nghệ</sup></sub> <sub><sup>技术兴趣</sup></sub> <sub><sup>技術的関心</sup></sub> <sub><sup>기술적 관심</sup></sub>
@@ -22,7 +22,7 @@
 * Software development (full-stack development)
 * Web development
 ## 🖥️🚀 Experiences <sub><sup>Kinh nghiệm</sup></sub> <sub><sup>经历</sup></sub> <sub><sup>経験</sup></sub> <sub><sup>경험담</sup></sub> 
-* (2025/06 - 2025/08) IT Infrastructure Analyst Intern @ [Textron](https://www.textron.com/)<br>📍Hurst, Texas, U.S.
+* (2025/06 - 2025/08) IT Infrastructure Analyst (Intern) @ [Textron](https://www.textron.com/)<br>📍Hurst, Texas, U.S.
 * (2025/01 - 2025/05) Computing Lab Associate / Web Developer @ [UTD ECS Department](https://engineering.utdallas.edu/)<br>📍Richardson, Texas, U.S.
 ## 🏆 Accolades <sub><sup>Giải thưởng</sup></sub> <sub><sup>奖项</sup></sub> <sub><sup>賞を受賞</sup></sub> <sub><sup>상</sup></sub>
 * (2025/07) **1st Place Team Award - Textron Intern Conference: Game of Tech Competition**, [Textron](https://www.textron.com/)
