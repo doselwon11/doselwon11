@@ -1,9 +1,11 @@
 # Hi there 👋<br><sub><sup>Xin chào! </sup></sub> <sub><sup>你好！</sup></sub> <sub><sup>こんにちは！</sup></sub> <sub><sup>안녕하세요!</sup></sub>
-* **Birth name**: Nguyễn Đức Thái Duy
-* **Other name(s)**: Andy Nguyen
-* **Birth date**: 30 December 2003
-* **Birth place**: Hanoi, Vietnam
-* **Citizenship(s)**: Vietnam, United States
+| **Column** | Info |
+| :----: | :----: |
+| **Birth name** | Nguyễn Đức Thái Duy |
+| **Other name(s)** | Duy Nguyen<br>Andy Nguyen |
+| **Birth date** | 30 December 2003 |
+| **Birth place** | Hanoi, Vietnam |
+| **Nationality(ies)** | Vietnam<br>United States|
 
 <!--
 **doselwon11/doselwon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
