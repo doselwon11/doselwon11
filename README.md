@@ -1,5 +1,5 @@
 # Hi there 👋<br><sub><sup>Xin chào! </sup></sub> <sub><sup>你好！</sup></sub> <sub><sup>こんにちは！</sup></sub> <sub><sup>안녕하세요!</sup></sub>
-| **Column** | Info |
+| **Column** | Identification |
 | :----: | :----: |
 | **Birth name** | Nguyễn Đức Thái Duy |
 | **Other name(s)** | Duy Nguyen<br>Andy Nguyen |
