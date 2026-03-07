@@ -1,11 +1,28 @@
 # Hi there 👋<br><sub><sup>Xin chào! </sup></sub> <sub><sup>你好！</sup></sub> <sub><sup>こんにちは！</sup></sub> <sub><sup>안녕하세요!</sup></sub>
-| **Column** | Identification |
-| :----: | :----: |
-| **Birth name** | Nguyễn Đức Thái Duy |
-| **Other name(s)** | Duy Nguyen<br>Andy Nguyen |
-| **Birth date** | 30 December 2003 |
-| **Birth place** | Hanoi, Vietnam |
-| **Nationality(ies)** | Vietnam<br>United States|
+
+<table>
+  <tr>
+    <td><strong>Birth name</strong></td>
+    <td>Nguyễn Đức Thái Duy</td>
+  </tr>
+  <tr>
+    <td><strong>Other name(s)</strong></td>
+    <td>Andy Nguyen</td>
+  </tr>
+  <tr>
+    <td><strong>Date of birth</strong></td>
+    <td>30 December 2003</td>
+  </tr>
+  <tr>
+    <td><strong>Hometown</strong></td>
+    <td>Hanoi, Vietnam</td>
+  </tr>
+  <tr>
+    <td><strong>Nationality / Citizenship</strong></td>
+    <td>Vietnam<br>United States</td>
+  </tr>
+</table>
+
 
 <!--
 **doselwon11/doselwon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
