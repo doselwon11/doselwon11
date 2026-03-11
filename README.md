@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><strong>Nationality / Citizenship</strong></td>
-    <td>Vietnam<br>United States</td>
+    <td>🇻🇳 Vietnam<br>🇺🇸 United States</td>
   </tr>
 </table>
 
