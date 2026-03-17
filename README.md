@@ -56,6 +56,8 @@
 * (2024/09) **Selden Leavell Endowed Scholarship Award**, UTD
 * (2024/04, 2025/04) **BAFTX Undergraduate Scholarship Award**, [British American Foundation of Texas](https://baftx.org/)
 ## 🖥️⚡ Technical Projects <sub><sup>Dự án công nghệ</sup></sub> <sub><sup>科技项目</sup></sub> <sub><sup>技術プロジェクト</sup></sub> <sub><sup>기술 프로젝트</sup></sub> 
+* (2026/03-2026/03) [VisionMentor](https://github.com/doselwon11/VisionMentor), Gemini Live Agent Challenge
+   * Programming languages, frameworks, APIs, libraries used: **Google Gemini SDK API, Python, TypeScript, Next.js, React, TailwindCSS**
 * (2026/01-2026/02) [Mental State Mirror](https://github.com/doselwon11/Mental-State-Mirror-MSM), Gemini 3 Hackathon
    * Programming languages, frameworks, APIs, libraries used: **Google Gemini 3 API, HTML, TypeScript, React, Vite**
 * (2025/11-2025/12) [F1 Champion Prediction: *Predict the Grid*](https://github.com/doselwon11/F1-Champion-Predictions), SKKU SWE3050-41: Machine Learning Term Project
@@ -65,10 +67,6 @@
 * (2025/09-2025/12) [KLYNN Laundry (Client)](https://github.com/doselwon11/KLYNN-laundry-remake) & [KLYNN Laundry (Admin)](https://github.com/doselwon11/klynn-admin-app), SKKU SWE3028-41: Capstone Design Project (Team Project)
    * Programming languages, frameworks, APIs, libraries used (for Client App): **TypeScript, React Native (Expo), Supabase (PostgreSQL), REST API (REST Countries, etc.)**
    * Programming languages, frameworks, APIs, libraries used (for Admin App): **TypeScript, React, Next.js, Supabase (PostgreSQL)**
-* (2025/02-2025/03) [CommTrack — Incident Report Tracker Website](https://github.com/doselwon11/CommTrack), MEGA Hackathon 2025
-   * Programming languages, frameworks, APIs, libraries used: **HTML, CSS, JavaScript, Python (Flask), TensorFlow, Hugging Face Transformers, REST API (REST Countries, GeoNames, OpenStreetMap, Google Translate, etc.)**
-* (2024/12-2025/01) [Disaster Bomb Game](https://github.com/doselwon11/AWS-Disaster-Bomb-Game), 2024 [AWS](https://aws.amazon.com/deepracer/) Game Builder Challenge
-   * Programming languages, frameworks, APIs, libraries used: **Python (Pygame), AWS (S3, DynamoDB), Amazon Q Developer**
 ## ✨ Other Things About Me <sub><sup>Những điều khác về mình</sup></sub> <sub><sup>关于我的其他事情</sup></sub> <sub><sup>私についてのその他のこと</sup></sub> <sub><sup>나에 관한 다른 것들</sup></sub>
 * **Favourite foods**: Phở bò, Bánh mì, Bánh xèo, Bún chả Hà Nội, Nem rán/Chả giò (fried spring rolls), Bún riêu cua, Bún hải sản, Xôi xéo, Bánh cuốn, Pasta, Kimbap, Ramen, Tonkatsu, Tempura,...
 * **Favourite drinks**: Vietnamese coffee (Cà phê sữa đá, bạc xỉu, kem cốt dừa,...), matcha, milk tea
