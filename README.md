@@ -72,6 +72,6 @@
 * **Favourite drinks**: Vietnamese coffee (Cà phê sữa đá, bạc xỉu, kem cốt dừa,...), matcha, milk tea
 * **Non-tech interests**: Blogging, writing, popular culture, media, music, travel, journalism, photography, videography, graphic design
 * **Countries I lived (or currently living)**: South Korea, United States, Vietnam
-* **Countries visited**: Canada, Japan
+* **Countries visited**: Canada, Japan, Mexico
 * **Countries that I only saw physically**: North Korea (DMZ Tour 2025)
 
