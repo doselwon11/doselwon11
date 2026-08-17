@@ -41,7 +41,7 @@
 * Software development (full-stack development)
 * Web development
 ## 🖥️🚀 Experiences <sub><sup>Kinh nghiệm</sup></sub> <sub><sup>经历</sup></sub> <sub><sup>経験</sup></sub> <sub><sup>경험담</sup></sub> 
-* (2026/05 - 2026/08) Software Developer (Intern) @ [Gainwell Technologies](https://www.gainwelltechnologies.com)<br>📍Dallas, Texas, U.S.
+* (2026/05 - Present) Software Developer @ [Gainwell Technologies](https://www.gainwelltechnologies.com)<br>📍Dallas, Texas, U.S.
 * (2025/06 - 2025/08) IT Infrastructure Analyst (Intern) @ [Textron](https://www.textron.com/)<br>📍Hurst, Texas, U.S.
 * (2025/01 - 2025/05) Computing Lab Associate / Web Developer @ [UTD ECS Department](https://engineering.utdallas.edu/)<br>📍Richardson, Texas, U.S.
 ## 🏆 Accolades <sub><sup>Giải thưởng</sup></sub> <sub><sup>奖项</sup></sub> <sub><sup>賞を受賞</sup></sub> <sub><sup>상</sup></sub>
