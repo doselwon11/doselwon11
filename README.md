@@ -42,7 +42,7 @@
 * Web development
 ## 🖥️🚀 Experiences <sub><sup>Kinh nghiệm</sup></sub> <sub><sup>经历</sup></sub> <sub><sup>経験</sup></sub> <sub><sup>경험담</sup></sub> 
 * (2026/05 - Present) @ [Gainwell Technologies](https://www.gainwelltechnologies.com)<br>
-   * (2026/08 - Present) **Software Engineer / Application Developer** 📍 Wisconsin, U.S. (Remote)
+   * (2026/08 - Present) **Software Engineer / Application Developer** 📍 Madison, Wisconsin, U.S. (Remote)
    * (2026/05 - 2026/08) **Software Developer (Intern)** 📍 Dallas, Texas, U.S.
 * (2025/06 - 2025/08) **IT Infrastructure Analyst (Intern)** @ [Textron](https://www.textron.com/)<br>📍Hurst, Texas, U.S.
 * (2025/01 - 2025/05) **Computing Lab Associate / Web Developer** @ [UTD ECS Department](https://engineering.utdallas.edu/)<br>📍Richardson, Texas, U.S.
