@@ -59,10 +59,13 @@
 * (2024/09) **Selden Leavell Endowed Scholarship Award**, UTD
 * (2024/04, 2025/04) **BAFTX Undergraduate Scholarship Award**, [British American Foundation of Texas](https://baftx.org/)
 ## 🖥️⚡ Technical Projects <sub><sup>Dự án công nghệ</sup></sub> <sub><sup>科技项目</sup></sub> <sub><sup>技術プロジェクト</sup></sub> <sub><sup>기술 프로젝트</sup></sub> 
-* (2026/06-Present) Prod Encounter Dashboard, Gainwell Technologies Wisconsin Account Project
+### Professional Projects <sub><sup>Dự án chuyên nghiệp</sup></sub> <sub><sup>专业项目</sup></sub> <sub><sup>専門的なプロジェクト</sup></sub> <sub><sup>전문 프로젝트</sup></sub> 
+* (2026/06-2026/08) Prod Encounter Dashboard, Gainwell Technologies Wisconsin Account Project
    * Programming languages, frameworks, APIs, libraries used: **Microsoft 365 Copilot, KornShell, XML, SQL**
 * (2026/06-2026/08) RFP Opportunity Intelligence Engine, Gainwell Technologies Capstone Project
    * Programming languages, frameworks, APIs, libraries used: **Microsoft 365 Copilot, Python (Pandas, NumPy, ReportLab, Python-docx, Streamlit)**
+
+### Personal Projects <sub><sup>Dự án cá nhân</sup></sub> <sub><sup>个人项目</sup></sub> <sub><sup>個人プロジェクト</sup></sub> <sub><sup>개인 프로젝트</sup></sub> 
 * (2026/06-2026/06) [Healthcare Claims Validator](https://github.com/doselwon11/Healthcare-Claims-Validator)
    * Programming languages, frameworks, APIs, libraries used: **OpenAI Codex, .NET, C#, Entity Framework, Bootstrap, HTML, CSS**
 * (2026/03-2026/03) [VisionMentor](https://github.com/doselwon11/VisionMentor), Gemini Live Agent Challenge
