@@ -60,6 +60,8 @@
 * (2024/04, 2025/04) **BAFTX Undergraduate Scholarship Award**, [British American Foundation of Texas](https://baftx.org/)
 ## 🖥️⚡ Technical Projects <sub><sup>Dự án công nghệ</sup></sub> <sub><sup>科技项目</sup></sub> <sub><sup>技術プロジェクト</sup></sub> <sub><sup>기술 프로젝트</sup></sub> 
 ### Professional Projects <sub><sup>Dự án chuyên nghiệp</sup></sub> <sub><sup>专业项目</sup></sub> <sub><sup>専門的なプロジェクト</sup></sub> <sub><sup>전문 프로젝트</sup></sub> 
+* (2026/09-2026/12) Fieldprint API Migration, Gainwell Technologies
+   * Programming languages, frameworks, APIs, libraries used: **Microsoft 365 Copilot, C, CShell, SQL, REST API**
 * (2026/06-2026/08) Prod Encounter Dashboard, Gainwell Technologies Wisconsin Account Project
    * Programming languages, frameworks, APIs, libraries used: **Microsoft 365 Copilot, KornShell, XML, SQL**
 * (2026/06-2026/08) RFP Opportunity Intelligence Engine, Gainwell Technologies Capstone Project
