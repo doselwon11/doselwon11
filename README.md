@@ -66,6 +66,8 @@
    * Programming languages, frameworks, APIs, libraries used: **Microsoft 365 Copilot, KornShell, XML, SQL**
 * (2026/06-2026/08) RFP Opportunity Intelligence Engine, Gainwell Technologies Capstone Project
    * Programming languages, frameworks, APIs, libraries used: **Microsoft 365 Copilot, Python (Pandas, NumPy, ReportLab, Python-docx, Streamlit)**
+* (2025/06-2025/08) DMZ Control Installation & Deployment Automation, Textron
+   * Programming languages, frameworks, APIs, libraries used: **Microsoft 365 Copilot, PowerShell, Ansible, Red Hat Linux**
 
 ### Personal Projects <sub><sup>Dự án cá nhân</sup></sub> <sub><sup>个人项目</sup></sub> <sub><sup>個人プロジェクト</sup></sub> <sub><sup>개인 프로젝트</sup></sub> 
 * (2026/06-2026/06) [Healthcare Claims Validator](https://github.com/doselwon11/Healthcare-Claims-Validator)
